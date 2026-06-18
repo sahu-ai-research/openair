@@ -2,6 +2,7 @@
   🐦📰 OpenAIR News Digest — June 18, 2026 AM
   Since: last 12 hours (first run)
   Articles: 10
+  Last Updated: 2026-06-18 06:57 UTC
 ============================================================
 
   ── Research ───────────────────────────────────
@@ -15,21 +16,21 @@
 
   ── Journalism ─────────────────────────────────
 
-    2. WIRED AI — The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed
-       Jun 18, 06:00 UTC
-       Internal Home Office tests of age-verification
-       technology show the risks of life-altering errors.
-       It’s moving forward anyway.
-       https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
-
-    3. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
-       Jun 18, 01:59 UTC
+    2. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
+       Jun 18, 02:49 UTC
        Midjourney CEO David Holz just showed off the
        company's first hardware product and plans to build a
        San Francisco spa, which he admitted is a bit
        different from the "cat pictures" produced by its AI
        image generator.
        https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
+
+    3. WIRED AI — The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed
+       Jun 18, 06:00 UTC
+       Internal Home Office tests of age-verification
+       technology show the risks of life-altering errors.
+       It’s moving forward anyway.
+       https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
 
     4. TechCrunch AI — How to turn off AI in your Google Docs
        Jun 18, 01:23 UTC
@@ -81,6 +82,6 @@
        https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
 
 ============================================================
-  Generated: 2026-06-18 06:44 UTC
+  Generated: 2026-06-18 06:57 UTC
   Use: python vireo_read.py <url> to read full article
 ============================================================
