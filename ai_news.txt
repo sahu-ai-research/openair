@@ -1,0 +1,28 @@
+============================================================
+  🐦📰 OpenAIR News Digest — June 18, 2026 AM
+  Since: last run (2026-06-18 05:19 UTC)
+  Articles: 2
+============================================================
+
+  ── Journalism ─────────────────────────────────
+
+    1. WIRED AI — The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed
+       Jun 18, 06:00 UTC
+       Internal Home Office tests of age-verification
+       technology show the risks of life-altering errors.
+       It’s moving forward anyway.
+       https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
+
+    2. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
+       Jun 18, 01:59 UTC
+       Midjourney CEO David Holz just showed off the
+       company's first hardware product and plans to build a
+       San Francisco spa, which he admitted is a bit
+       different from the "cat pictures" produced by its AI
+       image generator.
+       https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
+
+============================================================
+  Generated: 2026-06-18 06:12 UTC
+  Use: python vireo_read.py <url> to read full article
+============================================================
