@@ -1,23 +1,96 @@
 ============================================================
-  🐦📰 OpenAIR News Digest — June 18, 2026 AM
-  Since: last 12 hours (first run)
-  Articles: 9
-  Last Updated: 2026-06-18 07:15 UTC
+  🐦📰 OpenAIR News Digest — June 18, 2026 PM
+  Since: last run (2026-06-18 07:15 UTC)
+  Articles: 18
+  Last Updated: 2026-06-18 16:30 UTC
 ============================================================
 
   ── Research ───────────────────────────────────
 
-    1. MIT News AI — In game theory, generalists sometimes win out over specialists
-       Jun 17, 15:20 UTC
-       Researchers show that for certain kinds of games, an
-       overlooked class of algorithms performs much better
-       than expected.
-       https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617
+    1. OpenAI — Using AI to help physicians diagnose rare genetic diseases affecting children
+       Jun 18, 08:00 UTC
+       Researchers used an OpenAI reasoning model to help
+       diagnose rare diseases, identifying 18 new diagnoses
+       in previously unsolved cases.
+       https://openai.com/index/diagnose-rare-childhood-diseases
 
   ── Journalism ─────────────────────────────────
 
-    2. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
-       Jun 18, 02:49 UTC
+    2. WIRED AI — 3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers
+       Jun 18, 16:03 UTC
+       The software engineers filed a complaint with
+       Seattle’s civil rights office accusing Amazon of
+       illegally retaliating against them for expressing
+       their personal political beliefs.
+       https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/
+
+    3. The Verge AI — Amazon employees say they’re facing termination for backing data center limits
+       Jun 18, 11:49 UTC
+       When three Amazon software engineers testified earlier
+       this month at Seattle City Council hearings about data
+       centers, they started their testimony by citing a city
+       law barring employment discrimination over political
+       speech.
+       https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action
+
+    4. TechCrunch AI — General Intuition in talks to raise $300M at around $2B valuation
+       Jun 18, 15:20 UTC
+       The startup trains embodied AI and world models using
+       Medal’s dataset of 2 billion videos per year from 10
+       million monthly active users.
+       https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/
+
+    5. TechCrunch AI — A tech worker-backed PAC is bringing a $5M knife to Big Tech’s $100M gunfight
+       Jun 18, 15:13 UTC
+       Guardrails positions itself as a populist political
+       movement that runs on small donations from people in
+       the trenches of the AI boom.
+       https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/
+
+    6. The Guardian AI — ‘Ordinary people are being erased’: one director’s audacious fightback against AI – featuring Frinton
+       Jun 18, 14:33 UTC
+       Marc Isaacs’ film Synthetic Sincerity may look like a
+       documentary, but its fictional premise – a lab that
+       scrapes movies to harvest human emotions – shines a
+       hard light on just how far AI can go In Marc Isaacs’
+       latest film, the subversive documentary maker reveals
+       that an AI research laboratory...
+       https://www.theguardian.com/film/2026/jun/18/marc-isaacs-synthetic-sincerity-ai
+
+    7. The Verge AI — Who decides when AI is too dangerous?
+       Jun 18, 09:23 UTC
+       On today’s episode of Decoder, my guest is Hayden
+       Field, senior AI reporter for The Verge. Often when
+       Hayden comes on the show, it’s because something has
+       gone wrong in the world of AI.
+       https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump
+
+    8. The Verge AI — Photoshop and Premiere now have AI assistants
+       Jun 18, 08:08 UTC
+       Adobe's plan to stick AI assistants into all of its
+       Creative Cloud suite is now fully underway, with new
+       chatbots now rolling out to its biggest editing and
+       design apps. As part of a public beta launching today,
+       Photoshop, Premiere, Illustrator, InDesign, and Frame.
+       https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch
+
+    9. TechCrunch AI — Pixi’s new iOS app turns text messages into interactive AR experiences
+       Jun 18, 12:00 UTC
+       Forget stickers, GIFs, and emoji reactions. Pixi is
+       betting that the next evolution of messaging is
+       interactive augmented reality (AR).
+       https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/
+
+   10. The Verge AI — Adobe’s redesigned AI studio remembers what your creations look like
+       Jun 18, 07:59 UTC
+       Adobe is introducing some new capabilities for its
+       Firefly AI assistant, alongside a "reimagined" AI
+       studio that lets you edit and generate new designs
+       from a single interface.
+       https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update
+
+   11. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
+       Jun 18, 06:05 UTC
        Midjourney CEO David Holz just showed off the
        company's first hardware product and plans to build a
        San Francisco spa, which he admitted is a bit
@@ -25,55 +98,74 @@
        image generator.
        https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
 
-    3. WIRED AI — The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed
-       Jun 18, 06:00 UTC
-       Internal Home Office tests of age-verification
-       technology show the risks of life-altering errors.
-       It’s moving forward anyway.
-       https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
+   12. The Guardian AI — Office workers of the world unite: it’s time to revive the three-martini lunch | Andrea Javor
+       Jun 18, 10:00 UTC
+       The three-martini lunch allowed us to mix business and
+       pleasure, a phenomenon that is missing during the AI
+       boom As a 46-year-old executive who now has both
+       people and AI agents reporting to me on the org chart,
+       I think corporate America needs to revive a
+       much-mocked relic of mid-century American...
+       https://www.theguardian.com/commentisfree/2026/jun/18/three-martini-lunch
 
-    4. TechCrunch AI — How to turn off AI in your Google Docs
-       Jun 18, 01:23 UTC
-       Here's what you need to do to get those pesky "write
-       with Gemini" pop-ups to go away.
-       https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/
+   13. The Guardian AI — Gig workers are endlessly exploited. AI could make more of us share their fate
+       Jun 18, 08:00 UTC
+       As companies integrate AI and hire fewer employees, a
+       shift toward a ‘gig economy’ will commence In 2024,
+       the buy-now-pay-later company Klarna announced that it
+       would cut hundreds of customer service roles and begin
+       using an artificial intelligence chatbot instead.
+       https://www.theguardian.com/technology/2026/jun/18/ai-threatens-gig-work-rise
 
-    5. WIRED AI — The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy
-       Jun 17, 22:52 UTC
-       Days before Anthropic took its most advanced AI models
-       offline, the White House ordered the company to revoke
-       SK Telecom’s access to Claude Mythos over claims of
-       alleged ties to China.
-       https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
+  ── Science ────────────────────────────────────
 
-    6. TechCrunch AI — Roelof Botha joins SpaceX’s board of directors
-       Jun 17, 20:32 UTC
-       The former Sequoia Capital leader is filling an
-       "existing vacancy" on SpaceX's board, days after the
-       company went public in the largest IPO ever.
-       https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/
+   14. Live Science AI — 'Is it really necessary to generate another image?': UN scientist explains how everyday people can limit AI's environmental impact
+       Jun 18, 15:22 UTC
+       Live Science spoke with Kaveh Madani, the lead
+       investigator of a United Nations report examining AI's
+       environmental footprint, about this technology's
+       staggering energy use and what users can do to limit
+       their impact.
+       https://www.livescience.com/planet-earth/is-it-really-necessary-to-generate-another-image-un-scientist-explains-how-everyday-people-can-limit-ais-environmental-impact
 
-    7. TechCrunch AI — After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive
-       Jun 17, 20:24 UTC
-       Snap's long-awaited smart glasses debut hasn't exactly
-       done wonders for the company's stock.
-       https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/
+  ── Bigtech ────────────────────────────────────
 
-    8. TechCrunch AI — NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI
-       Jun 17, 20:17 UTC
-       Tokenmaxxing was the hottest trend in Silicon Valley
-       earlier this year, with CEOs encouraging employees to
-       push AI usage as far as it would go. Then the bill
-       came due.
-       https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
+   15. O'Reilly AI — Kubernetes in the Age of AI
+       Jun 18, 14:21 UTC
+       When Kubernetes first came onto the scene, it was a
+       major turning point, a revision of the infrastructure
+       and operations space that transformed the way
+       developers and ops personnel build, deploy, and
+       maintain applications in the cloud.
+       https://www.oreilly.com/radar/kubernetes-in-the-age-of-ai/
 
-    9. Ars Technica AI — AI coding agents taught robots how to install GPUs and cut zip ties
-       Jun 17, 19:25 UTC
-       Nvidia's self-improvement program for robots enlists
-       teams of AI coding agents.
-       https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
+  ── Practitioner ───────────────────────────────
+
+   16. KDnuggets — Advanced Join Techniques: LATERAL Joins, Semi Joins, Anti Joins
+       Jun 18, 14:00 UTC
+       LATERAL joins let a subquery in the FROM clause
+       reference columns from earlier in the same FROM
+       clause. Semi joins return rows where a match exists in
+       another table, without duplicating those rows. Anti
+       joins return rows where no match exists.
+       https://www.kdnuggets.com/advanced-join-techniques-lateral-joins-semi-joins-anti-joins
+
+   17. Analytics Vidhya — Most People Use ChatGPT Wrong: 10 Features and Tips That Changed How I Work
+       Jun 18, 13:30 UTC
+       Most people used ChatGPT like a smarter search engine.
+       Ask a question, get an answer, and move on. It works
+       but it leaves a surprising amount of value on the
+       table. Over the past few years, ChatGPT has evolved
+       far beyond a simple chatbot.
+       https://www.analyticsvidhya.com/blog/2026/06/chatgpt-tips-and-features/
+
+   18. The Rundown AI — Inside the deadlock keeping Mythos offline
+       Jun 18, 09:00 UTC
+       PLUS: Build and host a custom CRM with Google
+       Antigravity
+       https://www.therundown.ai/p/inside-the-deadlock-keeping-mythos-offline
 
 ============================================================
-  Generated: 2026-06-18 07:15 UTC
+  Generated: 2026-06-18 16:30 UTC
   Use: python vireo_article_reader.py <url> to read full article
 ============================================================
