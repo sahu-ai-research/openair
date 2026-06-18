@@ -1,19 +1,28 @@
 ============================================================
   🐦📰 OpenAIR News Digest — June 18, 2026 AM
-  Since: last run (2026-06-18 05:19 UTC)
-  Articles: 2
+  Since: last 12 hours (first run)
+  Articles: 14
 ============================================================
+
+  ── Research ───────────────────────────────────
+
+    1. MIT News AI — In game theory, generalists sometimes win out over specialists
+       Jun 17, 15:20 UTC
+       Researchers show that for certain kinds of games, an
+       overlooked class of algorithms performs much better
+       than expected.
+       https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617
 
   ── Journalism ─────────────────────────────────
 
-    1. WIRED AI — The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed
+    2. WIRED AI — The UK Will Scan Asylum-Seekers’ Faces for Age Checks—Despite Knowing the Tech Is Flawed
        Jun 18, 06:00 UTC
        Internal Home Office tests of age-verification
        technology show the risks of life-altering errors.
        It’s moving forward anyway.
        https://www.wired.com/story/facial-age-estimate-uk-asylum-seekers/
 
-    2. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
+    3. The Verge AI — Midjourney goes from generating cat images to full-body ultrasound scans
        Jun 18, 01:59 UTC
        Midjourney CEO David Holz just showed off the
        company's first hardware product and plans to build a
@@ -22,7 +31,87 @@
        image generator.
        https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan
 
+    4. TechCrunch AI — How to turn off AI in your Google Docs
+       Jun 18, 01:23 UTC
+       Here's what you need to do to get those pesky "write
+       with Gemini" pop-ups to go away.
+       https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/
+
+    5. WIRED AI — The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy
+       Jun 17, 22:52 UTC
+       Days before Anthropic took its most advanced AI models
+       offline, the White House ordered the company to revoke
+       SK Telecom’s access to Claude Mythos over claims of
+       alleged ties to China.
+       https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/
+
+    6. TechCrunch AI — Roelof Botha joins SpaceX’s board of directors
+       Jun 17, 20:32 UTC
+       The former Sequoia Capital leader is filling an
+       "existing vacancy" on SpaceX's board, days after the
+       company went public in the largest IPO ever.
+       https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/
+
+    7. TechCrunch AI — After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive
+       Jun 17, 20:24 UTC
+       Snap's long-awaited smart glasses debut hasn't exactly
+       done wonders for the company's stock.
+       https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/
+
+    8. TechCrunch AI — NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI
+       Jun 17, 20:17 UTC
+       Tokenmaxxing was the hottest trend in Silicon Valley
+       earlier this year, with CEOs encouraging employees to
+       push AI usage as far as it would go. Then the bill
+       came due.
+       https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/
+
+    9. Ars Technica AI — AI coding agents taught robots how to install GPUs and cut zip ties
+       Jun 17, 19:25 UTC
+       Nvidia's self-improvement program for robots enlists
+       teams of AI coding agents.
+       https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
+
+   10. TechCrunch AI — World leaders want American AI. They just don’t want America to be able to turn it off.
+       Jun 17, 19:01 UTC
+       French President Macron and Indian PM Modi raised
+       alarms at the G7 summit that the U.S. could cut off
+       access to American AI overnight — a fear the Anthropic
+       blackout just made real.
+       https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
+
+   11. The Verge AI — Anthropic got hit by export rules nobody understands
+       Jun 17, 14:31 UTC
+       Anthropic has spent much of this week fighting to get
+       its newest AI models back online after the Trump
+       administration abruptly ordered the company to cut
+       access for all foreign nationals, including users
+       inside the US and its own employees, forcing Anthropic
+       to block access to Fable 5 and Mythos 5...
+       https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls
+
+   12. TechCrunch AI — Anthropic becomes first AI startup to join the Frontier carbon removal coalition
+       Jun 17, 18:30 UTC
+       Anthropic has joined the Frontier coalition, which
+       received another $915M in pledges to fund carbon
+       removal projects.
+       https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/
+
+   13. WIRED AI — Operating a Humanoid With Your Body Is a Hot Job in China’s Hardware Capital
+       Jun 17, 18:25 UTC
+       In Shenzhen, workers at IO-AI Tech control humanoid
+       robots using a VR rig reminiscent of Ready Player One.
+       https://www.wired.com/story/humanoid-robot-training-in-chinas-hardware-capital/
+
+   14. TechCrunch AI — Social media’s next evolution: user-controlled algorithms
+       Jun 17, 18:19 UTC
+       Social media feeds are becoming more customizable as
+       platforms like Threads, Instagram, and TikTok
+       introduce tools that let users directly influence the
+       algorithms powering their recommendations.
+       https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/
+
 ============================================================
-  Generated: 2026-06-18 06:12 UTC
+  Generated: 2026-06-18 06:15 UTC
   Use: python vireo_read.py <url> to read full article
 ============================================================
