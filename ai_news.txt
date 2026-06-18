@@ -1,8 +1,8 @@
 ============================================================
   🐦📰 OpenAIR News Digest — June 18, 2026 AM
   Since: last 12 hours (first run)
-  Articles: 10
-  Last Updated: 2026-06-18 06:57 UTC
+  Articles: 9
+  Last Updated: 2026-06-18 07:15 UTC
 ============================================================
 
   ── Research ───────────────────────────────────
@@ -73,15 +73,7 @@
        teams of AI coding agents.
        https://arstechnica.com/ai/2026/06/ai-coding-agents-can-autonomously-direct-robot-training/
 
-   10. TechCrunch AI — World leaders want American AI. They just don’t want America to be able to turn it off.
-       Jun 17, 19:01 UTC
-       French President Macron and Indian PM Modi raised
-       alarms at the G7 summit that the U.S. could cut off
-       access to American AI overnight — a fear the Anthropic
-       blackout just made real.
-       https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/
-
 ============================================================
-  Generated: 2026-06-18 06:57 UTC
-  Use: python vireo_read.py <url> to read full article
+  Generated: 2026-06-18 07:15 UTC
+  Use: python vireo_article_reader.py <url> to read full article
 ============================================================
