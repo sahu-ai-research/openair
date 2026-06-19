@@ -1,76 +1,180 @@
 ============================================================
-  🐦📰 OpenAIR News Digest — June 18, 2026 PM
-  Since: last run (2026-06-18 19:15 UTC)
-  Articles: 8
-  Last Updated: 2026-06-18 23:30 UTC
+  🐦📰 OpenAIR News Digest — June 19, 2026 PM
+  Since: last run (2026-06-18 23:30 UTC)
+  Articles: 20
+  Last Updated: 2026-06-19 16:30 UTC
 ============================================================
 
   ── Journalism ─────────────────────────────────
 
-    1. WIRED AI — How the Peter Thiel-Linked Dialog Club Secretly Ranks Its Members
-       Jun 18, 22:12 UTC
-       Leaked files show the invite-only network grades
-       members by their money and fame, shaping who’s in,
-       who’s out, and who pays.
-       https://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/
+    1. TechCrunch AI — Is the US government’s Anthropic ban accidentally helping the brand?
+       Jun 19, 16:08 UTC
+       Just as last week was ending, the US government forced
+       Anthropic to pull its two newest models, Fable 5 and
+       Mythos 5, citing national security concerns after
+       Amazon researchers allegedly found a way to bypass
+       Fable 5’s guardrails.
+       https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/
 
-    2. Ars Technica AI — As China looms, Taiwan makes more drones for defense and the US military
-       Jun 18, 21:21 UTC
-       Taiwan's drone spending plans for defense could also
-       boost business overseas.
-       https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/
+    2. TechCrunch AI — The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care
+       Jun 19, 16:01 UTC
+       Just as last week was ending, the US government forced
+       Anthropic to pull its two newest models, Fable 5 and
+       Mythos 5, citing national security concerns after
+       Amazon researchers allegedly found a way to bypass
+       Fable 5’s guardrails.
+       https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/
 
-    3. TechCrunch AI — AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
-       Jun 18, 21:20 UTC
-       Startup Baseten is reportedly close to finalizing a
-       $1.5 billion round at a $13 billion as the “inference
-       gold rush" marches on.
-       https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/
+    3. TechCrunch AI — Billionaire Ambani wants AI in every call, app, and home
+       Jun 19, 15:23 UTC
+       Reliance is weaving AI into telecom services used by
+       more than 500 million people.
+       https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/
 
-    4. WIRED AI — The White House Is Making Up Its Rules for AI in Real Time
-       Jun 18, 21:03 UTC
-       Anthropic still can’t distribute Claude Mythos or
-       Fable 5 after running afoul of the Trump
-       administration. But no one can say exactly what the
-       company did wrong.
-       https://www.wired.com/story/anthropic-mythos-export-controls-ai-regulations/
+    4. The Guardian AI — Say what?! New insults to use in 2026 | Fiona Katauskas
+       Jun 19, 15:00 UTC
+       The news is providing a lot of material to work with
+       See more of Fiona Katauskas’s cartoons here Continue
+       reading...
+       https://www.theguardian.com/commentisfree/picture/2026/jun/20/say-what-new-insults-to-use-in-2026
 
-    5. TechCrunch AI — Snap spins off AI video team into new company, Dotmo, due to costs
-       Jun 18, 20:30 UTC
-       The Snapchat maker is spinning off yet another
-       internal unit. Dotmo will be composed of current Snap
-       staff who are leaving the social media company to
-       focus on AI video development.
-       https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/
+    5. The Verge AI — The film about Sam Altman has been dropped by Amazon MGM
+       Jun 19, 10:58 UTC
+       Luca Guadagnino's film about OpenAI CEO Sam Altman,
+       Artificial, has reportedly been dropped by Amazon MGM.
+       The film, which stars Andrew Garfield and covers the
+       rollercoaster five days in 2023 spanning Altman's
+       termination and reinstatement as CEO, had been in the
+       works for about a year.
+       https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped
 
-    6. TechCrunch AI — OpenAI is bringing on some big guns in the lead-up to its IPO
-       Jun 18, 19:59 UTC
-       OpenAI is bulking up before its IPO, landing
-       Transformer co-inventor Noam Shazeer from Google
-       DeepMind and former Trump AI policy official Dean Ball
-       in the same week.
-       https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/
+    6. TechCrunch AI — The CEO of Allbirds’ new AI biz has a plan, but no employees
+       Jun 19, 13:00 UTC
+       Call it a startup with a sole founder and a very large
+       seed round, but what's next is less clear.
+       https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/
 
-    7. WIRED AI — Meta’s AI Workers Are Revolting, Peter Thiel’s Secret Society, and SBF’s Plea to Trump
-       Jun 18, 19:29 UTC
-       On today’s Uncanny Valley, we dive into the
-       dysfunction in Meta’s newly formed AI unit and why
-       it’s been driving already-low employee morale even
-       further into the ground.
-       https://www.wired.com/story/uncanny-valley-podcast-meta-ai-workers-revolting-peter-thiel-secret-society-sbf-plea-to-trump/
+    7. The Guardian AI — ‘It’s a scam’: Americans express unease over SpaceX’s influence on retirement savings
+       Jun 19, 12:00 UTC
+       Guardian readers in the US share concerns about how
+       the SpaceX IPO and AI boom affect their retirement
+       accounts Elon Musk became the world’s first
+       trillionaire last week after SpaceX debuted on the
+       stock market with a valuation of $1.77tn.
+       https://www.theguardian.com/science/2026/jun/19/spacex-retirement-savings-elon-musk
 
-  ── Bigtech ────────────────────────────────────
+    8. The Guardian AI — Over-reliance on chatbots can diminish critical-thinking skills, study finds
+       Jun 19, 11:00 UTC
+       Depending on AI can also potentially decrease the
+       ability to discern misinformation, research says A new
+       study from the Massachusetts Institute of Technology
+       is the latest research to find that relying too much
+       on chatbots can diminish critical-thinking skills, and
+       potentially decrease our ability...
+       https://www.theguardian.com/us-news/2026/jun/19/chatbots-critical-thinking-skills
 
-    8. O'Reilly AI — This Week in AI: Fable 5, the Clone Wave, and Uber’s AI Reality Check
-       Jun 18, 19:33 UTC
-       This week, egghead.io cofounder John Lindquist joined
-       host YK Sugi, founder of CS Dojo and developer
-       experience manager at Eventual, to cover the latest AI
-       news. First on the agenda was the contested release of
-       Claude Fable 5.
-       https://www.oreilly.com/radar/this-week-in-ai-fable-5-the-clone-wave-and-ubers-ai-reality-check/
+    9. MIT Tech Review — A startup claims it broke through a bottleneck that’s holding back LLMs
+       Jun 19, 10:40 UTC
+       Miami-based AI startup Subquadratic came out of
+       stealth mode last month with a huge claim. It
+       announced that it had solved a mathematical bottleneck
+       that had been holding back large language models for
+       almost a decade. The details were thin, and many
+       people were unconvinced.
+       https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/
+
+   10. The Guardian AI — Jennifer Siebel Newsom’s new film shines a light on the human cost of unregulated social media
+       Jun 19, 10:00 UTC
+       California first lady’s Miss Representation: Rise Up
+       studies the backlash against women in the era of
+       algorithms and deepfakes Life moves pretty fast. It is
+       Monday lunchtime when Jennifer Siebel Newsom drops
+       into the Guardian’s office in Washington, just a
+       couple of blocks from the White House, for...
+       https://www.theguardian.com/culture/2026/jun/19/jennifer-siebel-newsom-documentary-miss-representation-rise-up
+
+   11. TechCrunch AI — The US says ASML’s top chip tool may be in China. ASML says it isn’t
+       Jun 19, 07:59 UTC
+       There's a commercial logic that cuts against the idea
+       that ASML would risk its export license to arm a
+       Chinese customer.
+       https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/
+
+   12. The Verge AI — Barret Zoph is out at OpenAI again after just five months
+       Jun 19, 00:49 UTC
+       Five months after returning to OpenAI, Barret Zoph -
+       the company's head of enterprise AI sales - has
+       departed, The Verge has learned. Zoph returned to
+       OpenAI in mid-January after a stint as co-founder and
+       CTO of Thinking Machines Lab, the competing AI company
+       founded by former OpenAI CTO Mira...
+       https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab
+
+   13. TechCrunch AI — Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M
+       Jun 19, 00:51 UTC
+       DeductiveAI, a startup that uses AI to catch and
+       resolve bugs in software, was founded just three years
+       ago.
+       https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/
+
+  ── Science ────────────────────────────────────
+
+   14. ScienceDaily AI — SpaceX wants to build AI data centers in space. Will it work?
+       Jun 18, 23:43 UTC
+       The race to build data centers in space is gaining
+       momentum as AI drives unprecedented demand for
+       computing power. Orbital facilities could tap into
+       abundant solar energy and avoid many of the
+       environmental challenges faced on Earth.
+       https://www.sciencedaily.com/releases/2026/06/260618041501.htm
+
+  ── Practitioner ───────────────────────────────
+
+   15. Analytics Vidhya — System Design for ML Interviews: 10 Real Problems Walked Through
+       Jun 19, 14:30 UTC
+       ML system design interviews test how well you can
+       think beyond models. In these interviews, choosing an
+       algorithm is only one part of the answer. You also
+       need to explain how data is collected, how features
+       are created, how predictions are served, and how the
+       system improves over time.
+       https://www.analyticsvidhya.com/blog/2026/06/system-design-for-ml-interviews-real-problems-solved/
+
+   16. KDnuggets — Loss Function Explained For Noobs (How Models Know They Are Wrong)
+       Jun 19, 14:00 UTC
+       This is a simple guide to understanding loss functions
+       in machine learning and how models learn from their
+       mistakes.
+       https://www.kdnuggets.com/noob-series-loss-function-explained-how-models-know-they-are-wrong
+
+   17. KDnuggets — Practical SQL Tricks Every Data Scientist Should Know
+       Jun 19, 12:00 UTC
+       In this article, we’ll cover essential SQL patterns
+       and workflows that make everyday data analysis
+       cleaner, faster, and easier to scale.
+       https://www.kdnuggets.com/practical-sql-tricks-every-data-scientist-should-know
+
+   18. KDnuggets — Python Dictionary Tips and Tricks You Should Always Remember
+       Jun 19, 12:00 UTC
+       Master these tips, and your dictionary code will
+       become shorter, safer, and easier to read.
+       https://www.kdnuggets.com/python-dictionary-tips-and-tricks-you-should-always-remember
+
+   19. AIhub — Everything, eco-where, AI at once?
+       Jun 19, 09:45 UTC
+       Tania Duarte and Catherine Breslin / Better Images of
+       AI / CC BY 4.0 In this blog post, Laura Martinez
+       Agudelo builds upon her research of visual
+       representations of ecology and digitalisation to
+       explore how “AI eco-imagery” is portrayed.
+       https://aihub.org/2026/06/19/everything-eco-where-ai-at-once/
+
+   20. The Rundown AI — Step into Midjourney's spa for a body scan
+       Jun 19, 09:00 UTC
+       PLUS: Save hours on meeting prep with Google Gemini
+       https://www.therundown.ai/p/step-into-midjourney-s-spa-for-a-body-scan
 
 ============================================================
-  Digest generated: 2026-06-18 23:30 UTC
+  Digest generated: 2026-06-19 16:30 UTC
   Use digest for triage; verify with research tool before airing. Article reader may work only where proxy/whitelist allows.
 ============================================================
