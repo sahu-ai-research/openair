@@ -1,29 +1,59 @@
 ============================================================
-  🐦📰 OpenAIR News Digest — June 19, 2026 PM
-  Since: last run (2026-06-19 16:30 UTC)
-  Articles: 2
-  Last Updated: 2026-06-19 23:30 UTC
+  🐦📰 OpenAIR News Digest — June 20, 2026 PM
+  Since: last run (2026-06-19 23:30 UTC)
+  Articles: 5
+  Last Updated: 2026-06-20 16:30 UTC
 ============================================================
-
-  ── Research ───────────────────────────────────
-
-    1. MIT News AI — A better way to model the behavior of metal alloys
-       Jun 19, 14:00 UTC
-       MIT researchers’ approach captures subtle atomic
-       patterns, improving predictions of material properties.
-       https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619
 
   ── Journalism ─────────────────────────────────
 
-    2. TechCrunch AI — Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work
-       Jun 19, 22:40 UTC
-       For the last 30 years, stopping the flow of
-       cybersecurity-related software has proven to be
-       ineffective. It's unclear why it would work now with
-       Anthropic’s cybersecurity model Mythos.
-       https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/
+    1. The Guardian AI — How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’
+       Jun 20, 11:00 UTC
+       We asked people in the US about their customer service
+       battles and hundreds responded on the financial and
+       emotional costs Guardian readers from across the US
+       wrote in to tell us about their battles with big
+       companies, and the time, expense and emotional toll
+       exacted by businesses they say are...
+       https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles
+
+    2. The Guardian AI — Lloyds Banking Group to hire 300 tech experts to work on AI
+       Jun 20, 11:00 UTC
+       Exclusive: While recruits will increase headcount for
+       now, broader adoption of AI could lead to jobs cuts in
+       future Lloyds Banking Group has launched an AI
+       recruitment drive for 300 tech experts, weeks before
+       its chief executive, Charlie Nunn, unveils a strategic
+       plan for the 261-year old lender.
+       https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts
+
+    3. WIRED AI — Siri AI Hands On: A Smart, Helpful Assistant
+       Jun 20, 10:00 UTC
+       The new Siri AI is conversational, omnipresent, and
+       actually helpful.
+       https://www.wired.com/story/siri-ai-hands-on-iphone/
+
+    4. The Guardian AI — A viral doomsday scenario aims to shake Europe out of its AI complacency
+       Jun 20, 09:59 UTC
+       Does a thought-experiment about US ascendancy in the
+       technology say as much about AI jitters as it does
+       about the reality? It’s 2031 and the US and China are
+       about to tear Europe into pieces. The US ploughed vast
+       sums into datacentres and the EU did not. China built
+       robots and Europe did not.
+       https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china
+
+    5. The Guardian AI — Granta stops publishing short story award winners over AI controversy
+       Jun 20, 09:00 UTC
+       Literary magazine will no longer engage in ‘external
+       publishing partnerships’ after Commonwealth prize
+       furore The prominent literary magazine Granta will no
+       longer publish the winning entries of the annual
+       Commonwealth short story prize after one of this
+       year’s winners drew widespread accusations...
+       https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai
 
 ============================================================
-  Digest generated: 2026-06-19 23:30 UTC
+  Digest generated: 2026-06-20 16:30 UTC
   Use digest for triage; verify with research tool before airing. Article reader may work only where proxy/whitelist allows.
 ============================================================
