@@ -1,59 +1,38 @@
 ============================================================
   🐦📰 OpenAIR News Digest — June 20, 2026 PM
-  Since: last run (2026-06-19 23:30 UTC)
-  Articles: 5
-  Last Updated: 2026-06-20 16:30 UTC
+  Since: last run (2026-06-20 16:30 UTC)
+  Articles: 4
+  Last Updated: 2026-06-20 23:30 UTC
 ============================================================
 
   ── Journalism ─────────────────────────────────
 
-    1. The Guardian AI — How do people in the US describe customer service in 2026? ‘Debilitating, depressing, enraging. Ugh’
-       Jun 20, 11:00 UTC
-       We asked people in the US about their customer service
-       battles and hundreds responded on the financial and
-       emotional costs Guardian readers from across the US
-       wrote in to tell us about their battles with big
-       companies, and the time, expense and emotional toll
-       exacted by businesses they say are...
-       https://www.theguardian.com/us-news/2026/jun/20/guardian-readers-consumer-battles
+    1. TechCrunch AI — Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’
+       Jun 20, 20:32 UTC
+       "These are not your friends. These are not conscious
+       beings. These are not sentient interlocutors.”
+       https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/
 
-    2. The Guardian AI — Lloyds Banking Group to hire 300 tech experts to work on AI
-       Jun 20, 11:00 UTC
-       Exclusive: While recruits will increase headcount for
-       now, broader adoption of AI could lead to jobs cuts in
-       future Lloyds Banking Group has launched an AI
-       recruitment drive for 300 tech experts, weeks before
-       its chief executive, Charlie Nunn, unveils a strategic
-       plan for the 261-year old lender.
-       https://www.theguardian.com/business/2026/jun/20/lloyds-banking-group-ai-recruitment-drive-300-tech-experts
+    2. TechCrunch AI — In the Weights is your new AI-centric vanity search
+       Jun 20, 19:41 UTC
+       So ... what's your In the Weights score?
+       https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/
 
-    3. WIRED AI — Siri AI Hands On: A Smart, Helpful Assistant
-       Jun 20, 10:00 UTC
-       The new Siri AI is conversational, omnipresent, and
-       actually helpful.
-       https://www.wired.com/story/siri-ai-hands-on-iphone/
+    3. The Verge AI — The Atlantic created a searchable database of the music used to train AI
+       Jun 20, 14:46 UTC
+       Atlantic reporter Alex Reisner recently uncovered four
+       datasets of music being used to train AI models and
+       made them fully searchable for the public. Two of the
+       sets are absolutely enormous at 12 million and 9
+       million tracks.
+       https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data
 
-    4. The Guardian AI — A viral doomsday scenario aims to shake Europe out of its AI complacency
-       Jun 20, 09:59 UTC
-       Does a thought-experiment about US ascendancy in the
-       technology say as much about AI jitters as it does
-       about the reality? It’s 2031 and the US and China are
-       about to tear Europe into pieces. The US ploughed vast
-       sums into datacentres and the EU did not. China built
-       robots and Europe did not.
-       https://www.theguardian.com/technology/2026/jun/20/europe-sleepwalking-ai-disaster-us-china
-
-    5. The Guardian AI — Granta stops publishing short story award winners over AI controversy
-       Jun 20, 09:00 UTC
-       Literary magazine will no longer engage in ‘external
-       publishing partnerships’ after Commonwealth prize
-       furore The prominent literary magazine Granta will no
-       longer publish the winning entries of the annual
-       Commonwealth short story prize after one of this
-       year’s winners drew widespread accusations...
-       https://www.theguardian.com/books/2026/jun/20/granta-magazine-commonwealth-short-story-prize-ai
+    4. TechCrunch AI — Nobel laureate John Jumper is leaving DeepMind for rival Anthropic
+       Jun 20, 16:39 UTC
+       Jumper isn't the only big name leaving Google DeepMind.
+       https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/
 
 ============================================================
-  Digest generated: 2026-06-20 16:30 UTC
+  Digest generated: 2026-06-20 23:30 UTC
   Use digest for triage; verify with research tool before airing. Article reader may work only where proxy/whitelist allows.
 ============================================================
